@@ -20,7 +20,7 @@
   </thead>
   <tbody>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Z-spaxis</a> </b></td>
+      <td><b><a href="http://www.z-spaxis.com/">Z-spaxis</a> </b></td>
       <td>C#,Unity  Developmental Engineer</td>
       <td>January 2019 - Present</td>
     </tr>
@@ -90,3 +90,42 @@ OdinSerializer 是为Odin构建和使用的自定义序列化程序的开源版�
 </table>
 </details>
 
+
+<details>
+<summary><b> Some Statistics Funt: </b></summary>
+<table>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+📊 **this week i spent my time on:**
+
+<!--START_SECTION:waka-->
+```text
+Unity       13 hrs 15 mins  ███████████████████░░░░░░   76.32 % 
+C#          1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+ShaderLab   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HLSL        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+GLSL        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+```
+<!--END_SECTION:waka-->
+
+</table>
+</details>
+
+
+
+<!-- start statics fun section -->
+<details>
+<summary><b> Some Statistics Fun </b></summary>
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelehappy666&theme=tokyonight&hide_langs_below=4' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lelehappy666&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lelehappy666&theme=dark)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=lelehappy666&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
+</details>
+<!-- end statics fun section -->
