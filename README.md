@@ -20,25 +20,11 @@
   </thead>
   <tbody>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
-      <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - Present</td>
+      <td><b><a href="https://www.unthinkable.co/">Z-spaxis</a> </b></td>
+      <td>C#,Unity  Developmental Engineer</td>
+      <td>January 2019 - Present</td>
     </tr>
-    <tr>
-      <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
-      <td>Solving questions.</td>
-      <td>October 2020 - January 2021</td>
-    </tr>
-    <tr>
-      <td><b>Problem Setter(Procode)</b></td>
-      <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Aprail 2020</td>
-    </tr>
-     <tr>
-      <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
-      <td>working on frontend of website</td>
-      <td>July 2019 - August 2019</td>
-    </tr>
+    
   </tbody>
 </table>
 </details>
