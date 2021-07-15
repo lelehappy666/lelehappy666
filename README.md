@@ -8,6 +8,7 @@
 - 📫 How to reach me: <a href="mailto:lele748916898@outlook.com?subject=邮件标题&body=邮件内容">告诉我们</a>
 
 
+<!-- start  My Work Experience -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
@@ -28,8 +29,14 @@
   </tbody>
 </table>
 </details>
+<!-- end  My Work Experience -->
 
 
+
+
+
+
+<!-- start  My Work Project -->
 <details>
 <summary><b> My Work Project :point_right:</b></summary>
 <table>
@@ -89,28 +96,9 @@ OdinSerializer 是为Odin构建和使用的自定义序列化程序的开源版�
   </tbody>
 </table>
 </details>
+<!-- end  My Work Project -->
 
 
-<details>
-<summary><b> Some Statistics Funt: </b></summary>
-<table>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-```text
-Unity       13 hrs 15 mins  ███████████████████░░░░░░   76.32 % 
-C#          1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-ShaderLab   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HLSL        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-GLSL        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-```
-<!--END_SECTION:waka-->
-
-
-</table>
-</details>
 
 
 
@@ -122,7 +110,7 @@ GLSL        17 mins         ▒░░░░░░░░░░░░░░░░�
 
 <!-- start statics fun section -->
 <details>
-<summary><b> Some Statistics Fun </b></summary>
+<summary><b> Some Statistics Fun</b></summary>
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelehappy666&theme=tokyonight&hide_langs_below=4' />
