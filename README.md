@@ -23,12 +23,21 @@
   	<tr>
       <td><b><a href="http://www.z-spaxis.com/">Z-spaxis</a> </b></td>
       <td>C#,Unity  Developmental Engineer</td>
-      <td>January 2019 - Present</td>
+      <td>January 2019 - 2022.3</td>
     </tr>
-    
   </tbody>
+  
+  <tbody>
+  	<tr>
+      <td><b><a href="http://www.ShaderBox.com/">ShaderBox</a> </b></td>
+      <td>C#,Unity Developmental Engineer</td>
+      <td>January 2022.3 - Present</td>
+    </tr>
+  </tbody>
+  
 </table>
 </details>
+
 <!-- end  My Work Experience -->
 
 
