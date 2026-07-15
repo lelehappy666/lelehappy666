@@ -2,9 +2,10 @@ name: Update GitHub profile trophy
 
 on:
   workflow_dispatch:
+
   schedule:
-    # Refresh every Monday at 03:17 UTC.
     - cron: "17 3 * * 1"
+
   push:
     branches:
       - main
@@ -18,29 +19,43 @@ concurrency:
   group: update-profile-trophy
   cancel-in-progress: true
 
+
 jobs:
   update-trophy:
+
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Check out profile repository
         uses: actions/checkout@v4
 
+
       - name: Generate trophy SVG
         uses: ryo-ma/github-profile-trophy@ccb591b887775ee567c0d9a38424ddfb9b1906c4
+
         with:
+
           username: lelehappy666
-          output_path: trophy.svg
-          # Uses the repository token as a public-data fallback. After adding
-          # PROFILE_TROPHY_TOKEN, private and public repositories are included.
+
+          # 重点：必须有 ./
+          output_path: ./trophy.svg
+
+          # 使用你的 Actions Secret
           token: ${{ secrets.PROFILE_TROPHY_TOKEN || github.token }}
+
           theme: tokyonight
 
+
       - name: Commit updated trophy
+
         shell: bash
+
         run: |
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add trophy.svg
 
           if git diff --cached --quiet; then
@@ -49,4 +64,5 @@ jobs:
           fi
 
           git commit -m "chore: update profile trophy"
+
           git push
