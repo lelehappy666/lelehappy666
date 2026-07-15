@@ -88,36 +88,24 @@ I'm an **Interactive Design Engineer at Dafeng Digital Arts, part of Dafeng Grou
 
 ## 📊 GitHub Overview
 
-<div align="center">
-
-<img height="170"
-src="https://github-stats-extended.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=lelehappy666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=lelehappy666&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=lelehappy666&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-/>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 综合统计" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lelehappy666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="GitHub 常用语言统计" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=lelehappy666&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献统计" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lelehappy666&theme=tokyo-night&hide_border=true&area=true" alt="GitHub 活跃度趋势图" />
+    </td>
+  </tr>
+</table>
 
 ---
 
