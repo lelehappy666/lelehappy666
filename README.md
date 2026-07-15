@@ -1,135 +1,129 @@
-### Hi there I'm Le 👋
-
-- 🔭 I’m currently working on [Unity VFX](https://unity.com/visual-effect-graph)
-- 🌱 I’m currently learning [Unity ShaderGraph](https://unity.com/shader-graph)
-- 👯 I’m looking to collaborate on [Z-spaxis](https://github.com/Z-spaxis)
-- 🤔  I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: <a href="mailto:lele748916898@outlook.com?subject=邮件标题&body=邮件内容">告诉我们</a>
-
-
-<!-- start  My Work Experience -->
-<details>
-<summary><b> My Work Experience :point_right: </b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Job Name</th>
-      <th>Roles & responsibilities</th>
-      <th>Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td><b><a href="http://www.z-spaxis.com/">Z-spaxis</a> </b></td>
-      <td>C#,Unity  Developmental Engineer</td>
-      <td>January 2019 - 2022.3</td>
-    </tr>
-  </tbody>
-  
-  <tbody>
-  	<tr>
-      <td><b><a href="http://www.ShaderBox.com/">ShaderBox</a> </b></td>
-      <td>C#,Unity Developmental Engineer</td>
-      <td>January 2022.3 - Present</td>
-    </tr>
-  </tbody>
-  
-</table>
-</details>
-
-<!-- end  My Work Experience -->
-
-
-
-
-
-
-<!-- start  My Work Project -->
-<details>
-<summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/lelehappy666/SpaceshipDemo'>VisualEffectGraph-Samples</a></td>
-      <td>C#,ShaderLab,HLSL,GLSL</td>
-      <td>In this project you will be able to access sample scenes and effects made with the Visual Effect Graph. You can download snapshots of these samples by using the release tab, or by cloning this repository.
-
-There are also pre-built binaries for Windows and/or macOS available.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/lelehappy666/SpaceshipDemo'>SpaceshipDemo</a></td>
-      <td>C#,ShaderLab,HLSL,GLSL</td>
-      <td>Spaceship Demo is a AAA Playable First person demo showcasing effects made with Visual Effect Graph and rendered with High Definition Render Pipeline.
-
-DOWNLOAD LATEST RELEASE HERE
-
-For update information, see the Changelog.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lelehappy666/VfxGraphTestbed">VfxGraphTestbed</a></td>
-      <td>HLSL</td>
-      <td>This repository is where I try several VFX ideas with Unity Visual Effect Graph (VFX Graph).</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/lelehappy666/xNode'>xNode</a></td>
-      <td>C#</td>
-      <td>Thinking of developing a node-based plugin? Then this is for you. You can download it as an archive and unpack to a new unity project, or connect it as git submodule.
-
-xNode is super userfriendly, intuitive and will help you reap the benefits of node graphs in no time. With a minimal footprint, it is ideal as a base for custom state machines, dialogue systems, decision makers etc.
-</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/lelehappy666/xLua'>xLua</a></td>
-      <td>C,HTML,Lua,C#,C++</td>
-      <td>xLua为Unity、 .Net、 Mono等C#环境增加Lua脚本编程的能力，借助xLua，这些Lua代码可以方便的和C#相互调用</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lelehappy666/Smrvfx">Smrvfx</a></td>
-      <td>C#</td>
-      <td>Smrvfx is a Unity sample project that shows how to use an animated skinned mesh as a particle source in a visual effect graph.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/lelehappy666/odin-serializer'>Odin-serializer</a></td>
-      <td>C#</td>
-      <td>为 Unity 构建的快速、健壮、强大且可扩展的 .NET 序列化程序
-OdinSerializer 是为Odin构建和使用的自定义序列化程序的开源版本 - Inspector & Serializer</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-<!-- end  My Work Project -->
-
-
-
-
-
-
-
-
-
-
-
-<!-- start statics fun section -->
-<details>
-<summary><b> Some Statistics Fun</b></summary>
 <div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lelehappy666&theme=tokyonight&hide_langs_below=4' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lelehappy666&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+# Hi, I'm Le 👋
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lelehappy666&theme=dark)
+### Interactive Design Engineer · Unity · Real-time Graphics · Embedded Interaction
 
-<img src="https://activity-graph.herokuapp.com/graph?username=lelehappy666&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+**Exhibitions · Cultural Tourism · Immersive Experiences**  
+**展厅交互 · 文旅体验 · 互动嵌入式**
+
+<p>
+  <a href="mailto:lele748916898@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Le" />
+  </a>
+  <a href="https://github.com/lelehappy666?tab=followers">
+    <img src="https://img.shields.io/github/followers/lelehappy666?label=Follow&style=flat-square&logo=github" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lelehappy666&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
-</details>
-<!-- end statics fun section -->
+
+## About Me
+
+I'm an **Interactive Design Engineer at Dafeng Digital Arts, part of Dafeng Group**. I work on real-time interactive experiences for exhibition spaces, cultural-tourism projects, and immersive environments.
+
+- 🎮 Building interactive applications and real-time content with **Unity** and **C#**
+- ✨ Experienced with **VFX Graph**, **Shader Graph**, **HLSL**, **HDRP**, and **URP**
+- 🔌 Connecting digital content with sensors, control systems, network protocols, and physical devices
+- 🌱 Currently expanding into **interactive embedded systems**, including microcontrollers, sensors, and reliable device communication
+- 🎯 Interested in combining **software, hardware, space, and storytelling** into complete visitor experiences
+- 📫 Reach me at **[lele748916898@outlook.com](mailto:lele748916898@outlook.com)**
+
+## Current Focus
+
+| Real-time Interaction | Embedded & Device Integration | Visual Experience |
+| --- | --- | --- |
+| Unity, C#, interactive applications | Microcontrollers, sensors, serial and network communication | VFX Graph, Shader Graph, HLSL, HDRP/URP |
+| Exhibition and cultural-tourism systems | RS-485, TCP/UDP, Modbus and hardware control | Real-time effects, rendering and performance optimization |
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/VFX_Graph-222C37?style=flat-square&logo=unity&logoColor=white" alt="Unity VFX Graph" />
+  <img src="https://img.shields.io/badge/Shader_Graph-222C37?style=flat-square&logo=unity&logoColor=white" alt="Unity Shader Graph" />
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square" alt="HLSL" />
+  <img src="https://img.shields.io/badge/ShaderLab-1F6FEB?style=flat-square" alt="ShaderLab" />
+  <img src="https://img.shields.io/badge/HDRP%20%2F%20URP-222C37?style=flat-square&logo=unity&logoColor=white" alt="HDRP and URP" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-Learning-F59E0B?style=flat-square" alt="Embedded systems" />
+  <img src="https://img.shields.io/badge/TCP%20%2F%20UDP-00599C?style=flat-square" alt="TCP and UDP" />
+  <img src="https://img.shields.io/badge/RS--485-00599C?style=flat-square" alt="RS-485" />
+  <img src="https://img.shields.io/badge/Modbus-00599C?style=flat-square" alt="Modbus" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Professional Experience
+
+| Company | Role / Focus | Period |
+| --- | --- | --- |
+| **Dafeng Digital Arts (Dafeng Group)**） | **Interactive Design Engineer** | Jun 2026 – Present |
+| **SYC** | Unity & Interactive Development | Apr 2025 – Mar 2026 |
+| **ShaderBox** | Unity / C# Developer | Mar 2022 – Apr 2025 |
+| [**Z-spaxis**](https://github.com/Z-spaxis) | Unity / C# Developer | Jan 2019 – Mar 2022 |
+
+## Selected Repositories
+
+### VFX & Rendering
+
+| Project | Technologies | Description |
+| --- | --- | --- |
+| [VisualEffectGraph-Samples](https://github.com/lelehappy666/VisualEffectGraph-Samples) | C#, ShaderLab, HLSL | Unity Visual Effect Graph sample scenes and effects |
+| [SpaceshipDemo](https://github.com/lelehappy666/SpaceshipDemo) | Unity, HDRP, VFX Graph | First-person real-time VFX demo rendered with HDRP |
+| [VfxGraphTestbed](https://github.com/lelehappy666/VfxGraphTestbed) | HLSL, VFX Graph | A playground for testing and prototyping VFX ideas |
+| [Smrvfx](https://github.com/lelehappy666/Smrvfx) | C#, VFX Graph | Uses an animated skinned mesh as a particle source |
+
+### Tools & Frameworks
+
+| Project | Technologies | Description |
+| --- | --- | --- |
+| [xNode](https://github.com/lelehappy666/xNode) | C# | A lightweight node-graph framework for Unity tools and runtime systems |
+| [xLua](https://github.com/lelehappy666/xLua) | C#, Lua, C++ | Lua scripting integration for Unity, .NET, and Mono |
+| [Odin Serializer](https://github.com/lelehappy666/odin-serializer) | C# | A fast and extensible .NET serialization framework for Unity |
+
+## GitHub Overview
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lelehappy666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Le's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelehappy666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Le's most used languages" />
+</div>
+
+## GitHub Trophies
+
+<!--
+  trophy.svg is generated by .github/workflows/update-profile-trophy.yml.
+  Add the PROFILE_TROPHY_TOKEN repository secret to include private repositories.
+-->
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="./trophy.svg" alt="Le's GitHub trophies generated from public and private repository activity" />
+  </a>
+  <br />
+  <sub>Generated inside this repository with GitHub Actions. Private repository names and source code are not displayed.</sub>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=lelehappy666&theme=tokyonight&hide_border=true" alt="Le's GitHub contribution streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lelehappy666&theme=tokyo-night&hide_border=true&area=true" alt="Le's GitHub activity graph" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Building interactions that connect digital content, physical devices, and real-world spaces.</sub>
+</div>
