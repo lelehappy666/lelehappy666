@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">代码仓库</title>
+  <desc id="desc">紫蓝渐变的文档与代码仓库图标</desc>
+  <defs>
+    <linearGradient id="repo" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7FF"/>
+      <stop offset="0.5" stop-color="#8B8BFF"/>
+      <stop offset="1" stop-color="#D078FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M17 7h21l12 12v34a4 4 0 0 1-4 4H17a4 4 0 0 1-4-4V11a4 4 0 0 1 4-4Z" fill="none" stroke="url(#repo)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M38 7v12h12M22 31h19M22 40h19M22 49h13" fill="none" stroke="url(#repo)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

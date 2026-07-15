@@ -24,9 +24,15 @@
 - 创建：`assets/profile/hero-banner-v2.png`
 - 创建：`assets/profile/spaceship-demo-cover.png`
 - 创建：`assets/profile/exhibition-interaction-cover.png`
+- 创建：`assets/profile/icon-interactive-exhibition.svg`
+- 创建：`assets/profile/icon-realtime-graphics.svg`
+- 创建：`assets/profile/icon-embedded-connected.svg`
+- 创建：`assets/profile/icon-repository.svg`
 - 创建：`.gitignore`
 
 - [ ] 根据确认的效果图生成独立标题横幅与两张概念项目封面。
+- [ ] 为互动展览、实时图形、嵌入式与互联制作独立 SVG 图标。
+- [ ] 为精选仓库卡片制作统一仓库 SVG 图标。
 - [ ] 将横幅复制到仓库资源目录。
 - [ ] 忽略 `.superpowers/` 视觉讨论缓存。
 

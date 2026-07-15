@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Interactive_Experiences-141B2D?style=flat-square" alt="互动体验" />
-  <img src="https://img.shields.io/badge/◇_Real--time_Graphics-18213A?style=flat-square" alt="实时图形" />
-  <img src="https://img.shields.io/badge/▣_Embedded_Systems-1B2940?style=flat-square" alt="嵌入式系统" />
-  <img src="https://img.shields.io/badge/◉_Sensors_%26_Devices-183244?style=flat-square" alt="传感器与设备" />
-  <img src="https://img.shields.io/badge/⌘_Network_Protocols-163449?style=flat-square" alt="网络协议" />
+  <img src="https://img.shields.io/badge/Interactive_Experiences-141B2D?style=flat-square&logo=unity&logoColor=C79BFF" alt="互动体验" />
+  <img src="https://img.shields.io/badge/Real--time_Graphics-18213A?style=flat-square&logo=opengl&logoColor=71D7FF" alt="实时图形" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-1B2940?style=flat-square&logo=espressif&logoColor=8DDFFF" alt="嵌入式系统" />
+  <img src="https://img.shields.io/badge/Sensors_%26_Devices-183244?style=flat-square&logo=arduino&logoColor=64E4FF" alt="传感器与设备" />
+  <img src="https://img.shields.io/badge/Network_Protocols-163449?style=flat-square&logo=socketdotio&logoColor=73D9FF" alt="网络协议" />
 </p>
 
 <p align="center">
@@ -26,17 +26,21 @@
     <td width="25%" valign="top">
       <h3>About</h3>
       <p>I'm an Interactive Design Engineer at <strong>Dafeng Digital Arts</strong>, with a cross-disciplinary background in programming, real-time graphics, devices, and spatial interaction.</p>
+      <p><sub>📍 Based in Asia&nbsp;&nbsp;&nbsp;&nbsp;🌐 Open to collaboration</sub></p>
     </td>
     <td width="25%" valign="top">
-      <h3>◇ Interactive Exhibition</h3>
+      <p align="center"><img width="104" src="./assets/profile/icon-interactive-exhibition.svg" alt="互动展览空间立方体图标" /></p>
+      <h3 align="center">Interactive Exhibition</h3>
       <p>Design and develop engaging exhibition and cultural-tourism installations that respond to people and environments in real time.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>△ Real-time Graphics</h3>
+      <p align="center"><img width="104" src="./assets/profile/icon-realtime-graphics.svg" alt="实时图形粒子三角图标" /></p>
+      <h3 align="center">Real-time Graphics</h3>
       <p>Create high-performance visuals and immersive effects with Unity, shaders, VFX Graph, HDRP, and URP.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>▣ Embedded & Connected</h3>
+      <p align="center"><img width="104" src="./assets/profile/icon-embedded-connected.svg" alt="嵌入式与互联芯片图标" /></p>
+      <h3 align="center">Embedded & Connected</h3>
       <p>Integrate sensors, controllers, physical devices, and network protocols into reliable interactive systems.</p>
     </td>
   </tr>
@@ -48,11 +52,11 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/VFX_Graph-222C37?style=flat-square&logo=unity&logoColor=white" alt="VFX Graph" />
   <img src="https://img.shields.io/badge/Shader_Graph-222C37?style=flat-square&logo=unity&logoColor=white" alt="Shader Graph" />
-  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square" alt="HLSL" />
-  <img src="https://img.shields.io/badge/ShaderLab-1F6FEB?style=flat-square" alt="ShaderLab" />
-  <img src="https://img.shields.io/badge/TCP%20%2F%20UDP-00599C?style=flat-square" alt="TCP 与 UDP" />
-  <img src="https://img.shields.io/badge/RS--485-00599C?style=flat-square" alt="RS-485" />
-  <img src="https://img.shields.io/badge/Modbus-00599C?style=flat-square" alt="Modbus" />
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="HLSL" />
+  <img src="https://img.shields.io/badge/ShaderLab-1F6FEB?style=flat-square&logo=unity&logoColor=white" alt="ShaderLab" />
+  <img src="https://img.shields.io/badge/TCP%20%2F%20UDP-00599C?style=flat-square&logo=socketdotio&logoColor=white" alt="TCP 与 UDP" />
+  <img src="https://img.shields.io/badge/RS--485-00599C?style=flat-square&logo=opensourcehardware&logoColor=white" alt="RS-485" />
+  <img src="https://img.shields.io/badge/Modbus-00599C?style=flat-square&logo=modbus&logoColor=white" alt="Modbus" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -80,14 +84,72 @@
 
 ## Selected Repositories
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [VisualEffectGraph-Samples](https://github.com/lelehappy666/VisualEffectGraph-Samples) | Visual Effect Graph sample scenes and effects | C#, ShaderLab, HLSL |
-| [VfxGraphTestbed](https://github.com/lelehappy666/VfxGraphTestbed) | Rapid VFX prototyping and experiments | HLSL, VFX Graph |
-| [Smrvfx](https://github.com/lelehappy666/Smrvfx) | Animated skinned mesh as a particle source | C#, VFX Graph |
-| [xNode](https://github.com/lelehappy666/xNode) | Node-graph framework | C# |
-| [xLua](https://github.com/lelehappy666/xLua) | Lua integration | C#, Lua |
-| [Odin Serializer](https://github.com/lelehappy666/odin-serializer) | Serialization framework | C# |
+<table>
+  <tr>
+    <td width="54" align="center"><img width="34" src="./assets/profile/icon-repository.svg" alt="仓库图标" /></td>
+    <td valign="top">
+      <a href="https://github.com/lelehappy666/ChatGPTView"><strong>ChatGPTView</strong></a><br/>
+      <sub>基于 Swift 的 ChatGPT 视图与界面实验项目。</sub><br/>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+    </td>
+    <td width="150" align="right" valign="top">
+      <img src="https://img.shields.io/github/stars/lelehappy666/ChatGPTView?style=flat-square&label=★" alt="ChatGPTView Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/ChatGPTView?style=flat-square&label=⑂" alt="ChatGPTView Forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="54" align="center"><img width="34" src="./assets/profile/icon-repository.svg" alt="仓库图标" /></td>
+    <td valign="top">
+      <a href="https://github.com/lelehappy666/Replaypoker-ios-"><strong>Replaypoker-ios-</strong></a><br/>
+      <sub>River Club：使用 SwiftUI 构建的沉浸式 iPhone 横屏德州扑克 UI 原型。</sub><br/>
+      <img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 6.0" />
+      <img src="https://img.shields.io/badge/SwiftUI-0B84F3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+      <img src="https://img.shields.io/badge/iOS-18%2B-111111?style=flat-square&logo=apple&logoColor=white" alt="iOS 18+" />
+    </td>
+    <td width="150" align="right" valign="top">
+      <img src="https://img.shields.io/github/stars/lelehappy666/Replaypoker-ios-?style=flat-square&label=★" alt="Replaypoker-ios- Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/Replaypoker-ios-?style=flat-square&label=⑂" alt="Replaypoker-ios- Forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="54" align="center"><img width="34" src="./assets/profile/icon-repository.svg" alt="仓库图标" /></td>
+    <td valign="top">
+      <a href="https://github.com/lelehappy666/ER12-2100"><strong>ER12-2100</strong></a><br/>
+      <sub>ER12-2100 项目仓库。</sub><br/>
+      <img src="https://img.shields.io/badge/Project-Repository-25324A?style=flat-square" alt="项目仓库" />
+    </td>
+    <td width="150" align="right" valign="top">
+      <img src="https://img.shields.io/badge/Public_Metadata-Unavailable-4B3A67?style=flat-square" alt="公开信息暂不可用" />
+    </td>
+  </tr>
+  <tr>
+    <td width="54" align="center"><img width="34" src="./assets/profile/icon-repository.svg" alt="仓库图标" /></td>
+    <td valign="top">
+      <a href="https://github.com/lelehappy666/TraeMonitoring"><strong>TraeMonitoring</strong></a><br/>
+      <sub>Trae 监控工具与仪表盘项目。</sub><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Monitoring-25324A?style=flat-square" alt="Monitoring" />
+    </td>
+    <td width="150" align="right" valign="top">
+      <img src="https://img.shields.io/github/stars/lelehappy666/TraeMonitoring?style=flat-square&label=★" alt="TraeMonitoring Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/TraeMonitoring?style=flat-square&label=⑂" alt="TraeMonitoring Forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="54" align="center"><img width="34" src="./assets/profile/icon-repository.svg" alt="仓库图标" /></td>
+    <td valign="top">
+      <a href="https://github.com/lelehappy666/KnowledgeBase"><strong>KnowledgeBase</strong></a><br/>
+      <sub>展品知识库与内容管理项目。</sub><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Knowledge_Base-25324A?style=flat-square" alt="Knowledge Base" />
+    </td>
+    <td width="150" align="right" valign="top">
+      <img src="https://img.shields.io/github/stars/lelehappy666/KnowledgeBase?style=flat-square&label=★" alt="KnowledgeBase Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/KnowledgeBase?style=flat-square&label=⑂" alt="KnowledgeBase Forks" />
+    </td>
+  </tr>
+</table>
 
 ## 🧭 Experience / 职业经历
 

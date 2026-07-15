@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">互动展览</title>
+  <desc id="desc">由发光节点和线框组成的空间立方体</desc>
+  <defs>
+    <linearGradient id="stroke" x1="24" y1="24" x2="216" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77E8FF"/>
+      <stop offset="0.5" stop-color="#769BFF"/>
+      <stop offset="1" stop-color="#C879FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#A884FF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#A884FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="120" cy="120" r="70" fill="url(#glow)" opacity="0.34"/>
+  <g fill="none" stroke="url(#stroke)" stroke-width="3" stroke-linejoin="round">
+    <path d="M120 24 200 69v93l-80 46-80-46V69z"/>
+    <path d="m40 69 80 47 80-47M120 116v92" opacity="0.8"/>
+    <path d="M120 56 172 85v61l-52 30-52-30V85z"/>
+    <path d="m68 85 52 31 52-31M120 116v60" opacity="0.8"/>
+    <path d="M120 81 151 99v36l-31 18-31-18V99z"/>
+  </g>
+  <g fill="#A9F2FF">
+    <circle cx="120" cy="24" r="5"/><circle cx="200" cy="69" r="5"/><circle cx="200" cy="162" r="5"/>
+    <circle cx="120" cy="208" r="5"/><circle cx="40" cy="162" r="5"/><circle cx="40" cy="69" r="5"/>
+  </g>
+  <circle cx="120" cy="116" r="12" fill="#B779FF" opacity="0.86"/>
+</svg>

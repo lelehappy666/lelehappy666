@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">嵌入式与互联</title>
+  <desc id="desc">带有连接引脚和发光核心的芯片</desc>
+  <defs>
+    <linearGradient id="chip" x1="45" y1="45" x2="195" y2="195" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5FE5FF"/>
+      <stop offset="0.55" stop-color="#718EFF"/>
+      <stop offset="1" stop-color="#CE72FF"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop stop-color="#D8B4FF"/>
+      <stop offset="0.35" stop-color="#8D75FF" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#5A49C8" stop-opacity="0.1"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" stroke="url(#chip)" stroke-width="4" stroke-linecap="round">
+    <rect x="50" y="50" width="140" height="140" rx="15"/>
+    <rect x="72" y="72" width="96" height="96" rx="10" opacity="0.8"/>
+    <path d="M75 50V25m30 25V17m30 33V17m30 33V25M75 190v25m30-25v33m30-33v33m30-33v25M50 75H25m25 30H17m33 30H17m33 30H25M190 75h25m-25 30h33m-33 30h33m-33 30h25"/>
+  </g>
+  <circle cx="120" cy="120" r="34" fill="url(#core)"/>
+  <g fill="none" stroke="#B9EAFF" stroke-width="3" stroke-linecap="round">
+    <path d="m120 91 7 20 21 1-17 13 6 21-17-12-17 12 6-21-17-13 21-1z"/>
+  </g>
+  <g fill="#9CEEFF">
+    <circle cx="120" cy="17" r="5"/><circle cx="223" cy="120" r="5"/><circle cx="120" cy="223" r="5"/><circle cx="17" cy="120" r="5"/>
+  </g>
+</svg>

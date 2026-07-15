@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">实时图形</title>
+  <desc id="desc">被粒子环绕的发光三角形</desc>
+  <defs>
+    <linearGradient id="face" x1="48" y1="190" x2="185" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#47D7FF" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#6997FF" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#CB78FF" stop-opacity="0.38"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="47" y1="196" x2="185" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61E4FF"/>
+      <stop offset="1" stop-color="#BE7BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="m120 31 79 167H41z" fill="url(#face)" stroke="url(#edge)" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="none" stroke="url(#edge)" stroke-width="2" opacity="0.82">
+    <path d="m120 31-18 118 97 49M102 149 41 198M120 31l29 119-108 48M149 150l50 48"/>
+    <ellipse cx="120" cy="151" rx="93" ry="32" stroke-dasharray="4 10"/>
+  </g>
+  <g fill="#8DEEFF">
+    <circle cx="29" cy="150" r="4"/><circle cx="43" cy="112" r="3"/><circle cx="64" cy="80" r="4"/>
+    <circle cx="91" cy="58" r="3"/><circle cx="160" cy="55" r="4"/><circle cx="191" cy="83" r="3"/>
+    <circle cx="211" cy="121" r="4"/><circle cx="217" cy="162" r="3"/><circle cx="184" cy="194" r="4"/>
+    <circle cx="68" cy="205" r="3"/><circle cx="119" cy="214" r="4"/>
+  </g>
+  <circle cx="120" cy="151" r="10" fill="#B477FF"/>
+</svg>
