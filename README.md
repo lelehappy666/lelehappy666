@@ -94,8 +94,8 @@
       <img src="https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
     </td>
     <td width="150" align="right" valign="top">
-      <img src="https://img.shields.io/github/stars/lelehappy666/ChatGPTView?style=flat-square&label=★" alt="ChatGPTView Stars" />
-      <img src="https://img.shields.io/github/forks/lelehappy666/ChatGPTView?style=flat-square&label=⑂" alt="ChatGPTView Forks" />
+      <img src="https://img.shields.io/github/stars/lelehappy666/ChatGPTView?style=flat-square&label=Stars" alt="ChatGPTView Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/ChatGPTView?style=flat-square&label=Forks" alt="ChatGPTView Forks" />
     </td>
   </tr>
   <tr>
@@ -108,8 +108,8 @@
       <img src="https://img.shields.io/badge/iOS-18%2B-111111?style=flat-square&logo=apple&logoColor=white" alt="iOS 18+" />
     </td>
     <td width="150" align="right" valign="top">
-      <img src="https://img.shields.io/github/stars/lelehappy666/Replaypoker-ios-?style=flat-square&label=★" alt="Replaypoker-ios- Stars" />
-      <img src="https://img.shields.io/github/forks/lelehappy666/Replaypoker-ios-?style=flat-square&label=⑂" alt="Replaypoker-ios- Forks" />
+      <img src="https://img.shields.io/github/stars/lelehappy666/Replaypoker-ios-?style=flat-square&label=Stars" alt="Replaypoker-ios- Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/Replaypoker-ios-?style=flat-square&label=Forks" alt="Replaypoker-ios- Forks" />
     </td>
   </tr>
   <tr>
@@ -132,8 +132,8 @@
       <img src="https://img.shields.io/badge/Monitoring-25324A?style=flat-square" alt="Monitoring" />
     </td>
     <td width="150" align="right" valign="top">
-      <img src="https://img.shields.io/github/stars/lelehappy666/TraeMonitoring?style=flat-square&label=★" alt="TraeMonitoring Stars" />
-      <img src="https://img.shields.io/github/forks/lelehappy666/TraeMonitoring?style=flat-square&label=⑂" alt="TraeMonitoring Forks" />
+      <img src="https://img.shields.io/github/stars/lelehappy666/TraeMonitoring?style=flat-square&label=Stars" alt="TraeMonitoring Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/TraeMonitoring?style=flat-square&label=Forks" alt="TraeMonitoring Forks" />
     </td>
   </tr>
   <tr>
@@ -145,8 +145,8 @@
       <img src="https://img.shields.io/badge/Knowledge_Base-25324A?style=flat-square" alt="Knowledge Base" />
     </td>
     <td width="150" align="right" valign="top">
-      <img src="https://img.shields.io/github/stars/lelehappy666/KnowledgeBase?style=flat-square&label=★" alt="KnowledgeBase Stars" />
-      <img src="https://img.shields.io/github/forks/lelehappy666/KnowledgeBase?style=flat-square&label=⑂" alt="KnowledgeBase Forks" />
+      <img src="https://img.shields.io/github/stars/lelehappy666/KnowledgeBase?style=flat-square&label=Stars" alt="KnowledgeBase Stars" />
+      <img src="https://img.shields.io/github/forks/lelehappy666/KnowledgeBase?style=flat-square&label=Forks" alt="KnowledgeBase Forks" />
     </td>
   </tr>
 </table>
